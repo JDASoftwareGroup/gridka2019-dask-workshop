@@ -1,14 +1,15 @@
 name: tutorial
 dependencies:
   - python=3.7
-  - jupyterlab
   - dask
   - distributed
-  - pyarrow
-  - pandas
-  - matplotlib
-  - pygraphviz
-  - seaborn
-  - python-graphviz
   - h5py
   - ipywidgets
+  - jupyterlab
+  - matplotlib
+  - nodejs
+  - pandas
+  - pyarrow
+  - pygraphviz
+  - python-graphviz
+  - seaborn
